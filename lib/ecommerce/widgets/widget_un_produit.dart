@@ -1,0 +1,1 @@
+// creation d'un widget pour afficher un suel produit
