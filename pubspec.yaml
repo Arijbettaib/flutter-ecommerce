@@ -1,8 +1,7 @@
 name: projet1ds3
 description: "A new Flutter project."
-# The following line prevents the package from being accidentally published to
-# pub.dev using `flutter pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+publish_to: 'none'
 
 version: 1.0.0+1
 
@@ -13,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  lecle_flutter_carousel_pro: ^0.0.3  # Make sure to specify the correct version
+  lecle_flutter_carousel_pro: ^0.0.3  # Vérifiez si c'est bien la dernière version
 
 dev_dependencies:
   flutter_test:
@@ -23,4 +22,13 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/img/
+    - assets/img/carousel1.png
+    - assets/img/carousel2.jpeg
+    - assets/img/carousel3.jpg
+    - assets/img/carousel4.png
+    - assets/img/catbeauty.jpg
+    - assets/img/CatFurniture.jpg
+    - assets/img/CatLaptops.png
+    - assets/img/CatPhones.png
+    - assets/img/CatShoes.jpg
+    - assets/img/CatWatches.jpg
